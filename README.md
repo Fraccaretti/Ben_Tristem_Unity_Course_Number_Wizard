@@ -1,1 +1,1 @@
-# Unity_by_Ben_Tristem_project-1
+# Ben Tristem's Unity Course - Project #1: Number Wizard
